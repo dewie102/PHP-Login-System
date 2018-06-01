@@ -1,0 +1,3 @@
+# Ignore folder named '.phpintel'
+# This file is things for sublime php addon
+.phpintel/
