@@ -2,7 +2,7 @@
 
 // If there is no constant called __CONFIG__ defined, do not load this file
 if(!defined('__CONFIG__')) {
-		exit("You do not have a config file");
+	exit("You do not have a config file");
 }
 
 class DB {
